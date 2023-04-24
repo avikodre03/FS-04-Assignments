@@ -1,6 +1,6 @@
 # FS-04-Assignments
 
-## Assignments -01
+### Assignments -01
 https://avikodre03.github.io/FS-04-Assignments/Assignments%20-01/index
 
 ## Assignments-05
